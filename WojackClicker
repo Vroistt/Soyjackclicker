@@ -67,15 +67,13 @@ Shinies
 		end
 
 Buildings
-	*TEMPLATE
-		on click:anim glow
-		
-	*cage|cages
-		name:Rabbit cage|Rabbit cages
-		desc:A tiny little cage.<//><b>Effect:</b><.>Produces 1 rabbit every 10 seconds.
+	*TEMPLATE		
+	*FirstSoy
+		name:Green Haired Girl
+		desc:An Annoying Green Haied girl.<//><b>Effect:</b><.>Produces 1 Wojack evey second.
 		icon:icons[3,0]
-		cost:15 Wojacks
-		on tick:yield 0.1 Wojack
+		cost:100 Wojacks
+		on tick:yield 1 Wojack
 		unlocked
 		
 Upgrades
