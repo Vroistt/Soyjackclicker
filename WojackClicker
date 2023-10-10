@@ -72,9 +72,9 @@ Buildings
 		name:Green Haired Girl
 		desc:An Annoying Green Haied girl.<//><b>Effect:</b><.>Produces 1 Wojack evey second.
 		icon:icons[3,0]
-		cost:100 Wojacks
+		cost:100 Wojack
 		on tick:yield 1 Wojack
-		unlocked
+		Increase:25%
 		
 Upgrades
 	*TEMPLATE
