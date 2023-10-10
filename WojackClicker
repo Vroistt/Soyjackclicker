@@ -10,7 +10,7 @@ Settings
 	background:stuff/meadow.jpg
 	building cost increase:114.5%
 	building cost refund:25%
-	spritesheet:icons, 48 by 48, https://en.wikipedia.org/wiki/Wojak#/media/File:Wojak_cropped.jpg
+	spritesheet:icons, 48 by 48, https://i.pinimg.com/originals/97/4a/4a/974a4a2467ccd8f0fedab1aea2a17252.png
 	stylesheet:stuff/bigBlue.css
 
 Layout
@@ -22,7 +22,7 @@ Buttons
 		desc:Click this to beat a Soyjack!
 		on click:anim icon wobble
 		on click:yield 1 Wojack
-		icon:https://en.wikipedia.org/wiki/Wojak#/media/File:Wojak_cropped.jpg
+		icon:https://i.pinimg.com/originals/97/4a/4a/974a4a2467ccd8f0fedab1aea2a17252.png
 		no text
 		class:bigButton hasFlares
 		icon class:shadowed
